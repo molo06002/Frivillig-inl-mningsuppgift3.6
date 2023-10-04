@@ -13,7 +13,7 @@ namespace inlämningsuppgift3_6
             }
             else
             {
-                Console.WriteLine("Ditt namn kommer inte först i bokstavsordningen");
+                Console.WriteLine("Ditt namn kommer inte först i bokstavsordningen");//
             }
         }
     }
